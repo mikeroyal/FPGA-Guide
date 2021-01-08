@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/104068344-96754700-51b9-11eb-9030-5ec88f7e0b7e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/104069966-ab060f00-51ba-11eb-8295-d3479b485c86.png">
   <br />
   FPGA Guide
 </h1>
