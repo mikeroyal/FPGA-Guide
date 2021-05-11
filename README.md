@@ -6,7 +6,7 @@
 
 #### A guide covering FPGA(Field Programmable Gate Arrays) devices such as the PolarFire®, Artix 7 , Spartan 6  and Zynq-7000. Along with the tools, applications and libraries that will make you a better and more efficient developer with FPGA devices. Also, learn about cool projects that you can build with your FPGA device.
 
-**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).*
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 # Table of Contents
 
