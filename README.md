@@ -10,11 +10,11 @@
 
 # Table of Contents
 
-1.[FPGA Development Boards](https://github.com/mikeroyal/FPGA-Guide#fpga-development-boards)
+1. [FPGA Development Boards](https://github.com/mikeroyal/FPGA-Guide#fpga-development-boards)
 
-2.[FPGA Learning Resources](https://github.com/mikeroyal/FPGA-Guide#fpga-learning-resources)
+2. [FPGA Learning Resources](https://github.com/mikeroyal/FPGA-Guide#fpga-learning-resources)
 
-3.[FPGA Tools](https://github.com/mikeroyal/FPGA-Guide#fpga-tools)
+3. [FPGA Tools](https://github.com/mikeroyal/FPGA-Guide#fpga-tools)
  
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117887251-42f92f80-b265-11eb-868f-013a6fa7422f.png">
