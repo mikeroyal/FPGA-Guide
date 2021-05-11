@@ -6,7 +6,25 @@
 
 #### A guide covering FPGA(Field Programmable Gate Arrays) devices such as the PolarFire®, Artix 7 , Spartan 6  and Zynq-7000. Along with the tools, applications and libraries that will make you a better and more efficient developer with FPGA devices. Also, learn about cool projects that you can build with your FPGA device.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).*
 
+# Table of Contents
+
+1.[FPGA Development Boards](https://github.com/mikeroyal/FPGA-Guide#fpga-development-boards)
+
+2.[FPGA Learning Resources](https://github.com/mikeroyal/FPGA-Guide#fpga-learning-resources)
+
+3.[FPGA Tools](https://github.com/mikeroyal/FPGA-Guide#fpga-tools)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117887251-42f92f80-b265-11eb-868f-013a6fa7422f.png">
+  <br />
+</p>
+
+Testing a LabVIEW FPGA Design. Source: [NI](https://www.ni.com/en-us/shop/electronic-test-instrumentation/add-ons-for-electronic-test-and-instrumentation/what-is-labview-fpga-module.html)
+
+# FPGA Development Boards
+[Back to the Top](https://github.com/mikeroyal/FPGA-Guide#table-of-contents)
 
 [Checkout the PolarFire® FPGA Development Kits](https://www.microsemi.com/product-directory/dev-kits-solutions/3864-polarfire-kits)
 
@@ -29,7 +47,8 @@
 <img src="https://user-images.githubusercontent.com/45159366/104068367-a12fdc00-51b9-11eb-966a-08a0868fcfb7.png">
 
 
-## Resources
+## FPGA Learning Resources
+[Back to the Top](https://github.com/mikeroyal/FPGA-Guide#table-of-contents)
  
 [FPGA(Field Programmable Gate Arrays)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html) are semiconductor devices that are based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.
 
@@ -72,7 +91,8 @@
 [Verilog Courses on Coursera](https://www.coursera.org/courses?query=verilog)
 
 
-## Tools
+## FPGA Tools
+[Back to the Top](https://github.com/mikeroyal/FPGA-Guide#table-of-contents)
 
 [LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
 
@@ -116,3 +136,14 @@
 [Renode](https://renode.io/) is [Antmicro's](https://antmicro.com) virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.
 
 [Diosix](https://diosix.org/) is a lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/FPGA-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/FPGA-Guide#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
